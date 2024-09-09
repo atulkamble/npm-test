@@ -1,0 +1,17 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
