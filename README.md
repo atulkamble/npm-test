@@ -1,3 +1,6 @@
+Launch EC2 - Connect - ssh
+SG: 3000 inbound
+
 ### npm commands
 ```
 npm login
